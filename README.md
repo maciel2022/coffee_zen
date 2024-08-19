@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#Zenbrew - Coffee & Joy
+
+This project is a landing page site at coffee shop.
 
 ## Getting Started
 
